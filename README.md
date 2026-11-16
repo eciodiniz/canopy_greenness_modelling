@@ -1,1 +1,1 @@
-This routine was developed to model predictions of forest canopy density based on environmental data (climate and soil) and plant elements (nutrient concentrations and stocks). Scripts disponíveis em português brasileiro e inglês (Scripts available in Brazilian Portuguese and English)
+This routine was developed to model predictions of forest canopy density based on environmental data (climate and soil) and plant elements (nutrient concentrations and stocks). 
